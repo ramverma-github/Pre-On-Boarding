@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Pre-Onboarding/!svn/ver/202/pre-onboarding
+END
+mvnw
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Pre-Onboarding/!svn/ver/1/pre-onboarding/mvnw
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Pre-Onboarding/!svn/ver/1/pre-onboarding/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Pre-Onboarding/!svn/ver/167/pre-onboarding/pom.xml
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Pre-Onboarding/!svn/ver/1/pre-onboarding/.springBeans
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Pre-Onboarding/!svn/ver/1/pre-onboarding/.project
+END
+mvnw.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Pre-Onboarding/!svn/ver/1/pre-onboarding/mvnw.cmd
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Pre-Onboarding/!svn/ver/1/pre-onboarding/.classpath
+END

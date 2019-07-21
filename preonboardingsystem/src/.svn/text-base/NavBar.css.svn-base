@@ -1,0 +1,9 @@
+.span{
+	display : inline-block;
+}
+
+#Navbartext{
+	color: black;
+	font-size: 1.3em;
+	
+}

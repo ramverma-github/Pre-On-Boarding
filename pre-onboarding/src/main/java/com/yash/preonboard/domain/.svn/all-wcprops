@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Pre-Onboarding/!svn/ver/191/pre-onboarding/src/main/java/com/yash/preonboard/domain
+END
+CandidateDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Pre-Onboarding/!svn/ver/191/pre-onboarding/src/main/java/com/yash/preonboard/domain/CandidateDetails.java
+END
+BusinessGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Pre-Onboarding/!svn/ver/108/pre-onboarding/src/main/java/com/yash/preonboard/domain/BusinessGroup.java
+END
+RemarksDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Pre-Onboarding/!svn/ver/113/pre-onboarding/src/main/java/com/yash/preonboard/domain/RemarksDetails.java
+END
+ContractorDtls.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Pre-Onboarding/!svn/ver/190/pre-onboarding/src/main/java/com/yash/preonboard/domain/ContractorDtls.java
+END
+Employment.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Pre-Onboarding/!svn/ver/158/pre-onboarding/src/main/java/com/yash/preonboard/domain/Employment.java
+END
+SalaryDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Pre-Onboarding/!svn/ver/173/pre-onboarding/src/main/java/com/yash/preonboard/domain/SalaryDetails.java
+END
+BusinessUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Pre-Onboarding/!svn/ver/109/pre-onboarding/src/main/java/com/yash/preonboard/domain/BusinessUnit.java
+END
+PreviousEmployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Pre-Onboarding/!svn/ver/184/pre-onboarding/src/main/java/com/yash/preonboard/domain/PreviousEmployment.java
+END

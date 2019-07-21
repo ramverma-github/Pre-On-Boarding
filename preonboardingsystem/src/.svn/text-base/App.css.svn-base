@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+    background-color: #D2F0FB; /* For browsers that do not support gradients */
+    background-image: linear-gradient(-90deg,#E4E5E6,#D2F0FB);
+   color: Black;
+   text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.Maindiv{
+	margin-top:100px;
+	margin-left:28%;
+	width:40%;
+	 border-style: solid;
+	 border-color:#106A84;
+	 padding: 5px 25px 25px 25px;
+	
+}
+
+.Headerdiv{
+	text-align:center;
+}
+
+.Inputdiv{
+	
+}
+
+.Buttondiv{
+	margin-left:80%;
+	
+}
+.uploadbutton{
+	
+}
+
+
+
+
+

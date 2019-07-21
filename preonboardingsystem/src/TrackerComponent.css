@@ -1,0 +1,86 @@
+.FormDiv{
+	 width: 800px;
+    height: 600px;
+	margin-left : 20%;
+	margin-top : 30px;
+	
+}
+
+.FormHeader{
+	text-align:center;
+	
+	
+}
+
+.scrollproperty{
+	overflow: scroll;
+	 width: 800px;
+    height: 400px;
+	
+	}
+	
+.EmailForm{
+  
+ margin-left:200px;
+
+	}
+
+.EmailSpan{
+	 margin-left:10px;
+}
+.EmailSubmitButton{
+	 margin-left:20px;
+}
+
+.UserDetailForm{
+	visibility:hidden;
+}
+
+.TestDiv{
+	width:100%
+}
+
+.TestDiv div{
+	width:50%;
+	display:inline;
+}
+
+.ComponentsDiv{
+	margin-top:15px;
+}
+
+
+.ComponentDiv{
+	float:left;
+	width:50%;
+}
+
+.ThreeComponentDiv{
+	float:left;
+	width:25%;
+	
+}
+
+
+#BusinessGroup{
+	width : 38px;
+}
+
+#BusinessUnit{
+	width : 70px;
+}
+#Group{
+	width : 70px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
